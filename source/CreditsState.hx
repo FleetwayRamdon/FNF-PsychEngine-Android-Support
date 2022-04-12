@@ -81,9 +81,14 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-		        ['Android Port'],
-		        ['Saw (M.A. Jigsaw)','saw','Main Coder','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
-		        [''],
+		        ['Mod Creators']
+                        ['Ronald78','ronald',Director/Guionista/Animator and Compositor','https://discord.gg/NKujmsyTPv', 'F73838']
+                        ['Jonny The Hegdedog','jonny','Main Coder','https://discord.gg/NKujmsyTPv', 'F73838']
+                        ['elkks','kks','Sprite Creator and Charter','https://discord.gg/NKujmsyTPv', 'F73838]
+                        ['']
+                        ['Special Thanks']
+                        ['Noob Team','discord','Help','https://discord.gg/NKujmsyTPv', 'F73838']
+                        ['']
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
